@@ -4,5 +4,5 @@
 WebSearchApi-tool Library
 """
 
-from .search import SearchAPI
-from .exceptions import APIError, InvalidQueryError
+from .WebSearchApi.search import SearchAPI
+from .WebSearchApi.exceptions import APIError, InvalidQueryError
