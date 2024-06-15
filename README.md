@@ -1,4 +1,4 @@
-[![Downloads](https://static.pepy.tech/badge/video2tfrecord)](https://pepy.tech/project/video2tfrecord)
+[![Github All Releases](https://github.com/ConsiousAI/WebSearchApi/total.svg)]()
 Certainly! Here is the documentation tailored for the `WebSearchApi` library:
 
 ## WebSearchApi Library Documentation
